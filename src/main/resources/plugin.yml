@@ -1,0 +1,24 @@
+name: Duelos
+version: 1.0
+main: com.pluginhome.Duelos
+api-version: '1.21'
+description: Plugin de duelos 1v1 en español
+
+commands:
+  duelo:
+    description: Reta a otro jugador a un duelo
+    usage: /duelo <jugador>
+  aceptar:
+    description: Acepta un duelo pendiente
+    usage: /aceptar
+  rechazar:
+    description: Rechaza un duelo pendiente
+    usage: /rechazar
+
+permissions:
+  duelos.usar:
+    description: Puede usar los comandos de duelos
+    default: true
+  duelos.admin:
+    description: Administrar duelos
+    default: op

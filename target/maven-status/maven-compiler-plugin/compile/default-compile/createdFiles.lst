@@ -1,0 +1,6 @@
+com\pluginhome\RechazarCommand.class
+com\pluginhome\DueloManager.class
+com\pluginhome\DueloCommand.class
+com\pluginhome\DueloListener.class
+com\pluginhome\Duelos.class
+com\pluginhome\AceptarCommand.class
