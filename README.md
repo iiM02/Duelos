@@ -43,15 +43,6 @@ Desarrollado por iiM02.
 
 ---
 
-## 🔑 Permisos
-
-| Permiso | Descripción | Default |
-|---------|-------------|---------|
-| `duelos.usar` | Puede usar los comandos de duelos | true |
-| `duelos.admin` | Administrar duelos | op |
-
----
-
 ## 🔨 Compilar desde código fuente
 
 Requisitos: Java 21+, Maven 3.8+
